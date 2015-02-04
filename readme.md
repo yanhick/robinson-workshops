@@ -1,7 +1,7 @@
 #Robinson.js workshops
 
 ##What
-Partially re-implementing node.js version of Robinson during workshops
+Partially re-implementing node.js version of [Robinson](https://github.com/yanhick/robinson.js) during workshops
 
 ##Who
 Web developers wishing to know more about browsers internals.
